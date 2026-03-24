@@ -1,0 +1,5 @@
+# --- Base de datos MySQL ---
+spring:
+  datasource:
+    username: root
+    password: mysql
